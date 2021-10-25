@@ -1,0 +1,27 @@
+body{
+    background-color: cornsilk;
+}
+
+main{
+    background-color: rgba(107, 38, 6, 0.87);
+    text-align: center;
+    width: 400px;
+    height: 450px;
+    margin: auto;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow:  4px 4px 6px rgba(0, 0, 0, 0.452);
+}
+main h1{
+    color: white;
+}
+
+div{
+    margin: 5px;
+    padding: 5px;
+}
+
+#res{
+    padding: 20px;
+    border-radius: 10px;
+}
